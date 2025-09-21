@@ -1,0 +1,10 @@
+# Ignore the raw log file (to keep the archive locally )
+data/raw_web_log.txt
+
+# Ignore backup tar files
+*.tar.gz
+*.backup
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
