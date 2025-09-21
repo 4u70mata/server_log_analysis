@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Web Server Log Analysis Script -Version 1
+#Web Server Log Analysis Script -Version 2
 
 
 LOG_ARCHIVE="data/web_logs.tar.gz"
