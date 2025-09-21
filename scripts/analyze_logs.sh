@@ -18,7 +18,7 @@ EOF
 
 
 # Create the Archive 
-tar  -cvzf $LOG_ARCHIVE -C /data raw_web_log.txt
+tar  -cvzf $LOG_ARCHIVE -C data/ raw_web_log.txt
 
 # Remove raw log to start all over
 rm $LOG_FILE
